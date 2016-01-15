@@ -5,3 +5,5 @@ uses the [built in UI Test of Xcode 7](https://developer.apple.com/xcode/)
 testing framework.
 
 This sample project is tested with [bitrise.io](https://bitrise.io/).
+
+Just a couple changes...
